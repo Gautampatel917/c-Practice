@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo
+namespace Demo1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello this is demo file for know about git...");
-            Console.WriteLine("Another code line");
         }
     }
 }
