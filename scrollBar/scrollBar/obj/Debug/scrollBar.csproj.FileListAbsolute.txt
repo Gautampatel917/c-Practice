@@ -1,0 +1,9 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\scrollBar\scrollBar\bin\Debug\scrollBar.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\scrollBar\scrollBar\bin\Debug\scrollBar.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\scrollBar\scrollBar\bin\Debug\scrollBar.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\scrollBar\scrollBar\obj\Debug\scrollBar.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\scrollBar\scrollBar\obj\Debug\scrollBar.Form1.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\scrollBar\scrollBar\obj\Debug\scrollBar.Properties.Resources.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\scrollBar\scrollBar\obj\Debug\scrollBar.csproj.GenerateResource.Cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\scrollBar\scrollBar\obj\Debug\scrollBar.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\scrollBar\scrollBar\obj\Debug\scrollBar.pdb

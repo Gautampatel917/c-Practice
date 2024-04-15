@@ -1,0 +1,5 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\InputOutput\InputOutput\bin\Debug\InputOutput.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\InputOutput\InputOutput\bin\Debug\InputOutput.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\InputOutput\InputOutput\bin\Debug\InputOutput.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\InputOutput\InputOutput\obj\Debug\InputOutput.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\InputOutput\InputOutput\obj\Debug\InputOutput.pdb

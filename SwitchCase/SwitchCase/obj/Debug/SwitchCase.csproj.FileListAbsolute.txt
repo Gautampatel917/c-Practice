@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb

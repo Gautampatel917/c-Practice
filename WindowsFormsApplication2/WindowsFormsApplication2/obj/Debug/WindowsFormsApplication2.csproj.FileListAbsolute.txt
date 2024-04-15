@@ -1,0 +1,13 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

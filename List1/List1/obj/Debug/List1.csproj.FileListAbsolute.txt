@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\List1\List1\bin\Debug\List1.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\List1\List1\bin\Debug\List1.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\List1\List1\bin\Debug\List1.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\List1\List1\obj\Debug\List1.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\List1\List1\obj\Debug\List1.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\List1\List1\obj\Debug\List1.pdb

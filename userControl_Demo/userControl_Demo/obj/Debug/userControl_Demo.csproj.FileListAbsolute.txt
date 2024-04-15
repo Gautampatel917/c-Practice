@@ -1,0 +1,10 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\bin\Debug\userControl_Demo.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\bin\Debug\userControl_Demo.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\bin\Debug\userControl_Demo.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\obj\Debug\userControl_Demo.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\obj\Debug\userControl_Demo.Form1.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\obj\Debug\userControl_Demo.Properties.Resources.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\obj\Debug\userControl_Demo.UserControl1.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\obj\Debug\userControl_Demo.csproj.GenerateResource.Cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\obj\Debug\userControl_Demo.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\userControl_Demo\userControl_Demo\obj\Debug\userControl_Demo.pdb

@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\ADInet_DataTable\ADInet_DataTable\bin\Debug\ADInet_DataTable.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\ADInet_DataTable\ADInet_DataTable\obj\Debug\ADInet_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\ADInet_DataTable\ADInet_DataTable\bin\Debug\ADInet_DataTable.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\ADInet_DataTable\ADInet_DataTable\bin\Debug\ADInet_DataTable.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\ADInet_DataTable\ADInet_DataTable\obj\Debug\ADInet_DataTable.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\ADInet_DataTable\ADInet_DataTable\obj\Debug\ADInet_DataTable.pdb

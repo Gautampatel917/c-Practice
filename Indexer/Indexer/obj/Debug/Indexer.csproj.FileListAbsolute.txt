@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\Indexer\Indexer\obj\Debug\Indexer.pdb

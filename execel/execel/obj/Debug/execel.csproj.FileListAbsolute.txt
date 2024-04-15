@@ -1,0 +1,10 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\bin\Debug\execel.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\bin\Debug\execel.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\bin\Debug\execel.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\obj\Debug\execel.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\obj\Debug\execel.csproj.ResolveComReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\obj\Debug\execel.Form1.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\obj\Debug\execel.Properties.Resources.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\obj\Debug\execel.csproj.GenerateResource.Cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\obj\Debug\execel.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\execel\execel\obj\Debug\execel.pdb

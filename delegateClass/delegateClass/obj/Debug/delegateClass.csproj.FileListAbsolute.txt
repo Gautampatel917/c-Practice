@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\delegateClass\delegateClass\bin\Debug\delegateClass.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\delegateClass\delegateClass\bin\Debug\delegateClass.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\delegateClass\delegateClass\bin\Debug\delegateClass.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\delegateClass\delegateClass\obj\Debug\delegateClass.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\delegateClass\delegateClass\obj\Debug\delegateClass.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\delegateClass\delegateClass\obj\Debug\delegateClass.pdb

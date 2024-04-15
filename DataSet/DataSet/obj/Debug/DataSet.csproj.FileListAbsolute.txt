@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataSet\DataSet\bin\Debug\DataSet.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataSet\DataSet\bin\Debug\DataSet.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataSet\DataSet\bin\Debug\DataSet.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataSet\DataSet\obj\Debug\DataSet.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataSet\DataSet\obj\Debug\DataSet.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataSet\DataSet\obj\Debug\DataSet.pdb

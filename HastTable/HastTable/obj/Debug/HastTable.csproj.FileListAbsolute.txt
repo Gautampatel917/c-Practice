@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\HastTable\HastTable\bin\Debug\HastTable.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\HastTable\HastTable\bin\Debug\HastTable.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\HastTable\HastTable\bin\Debug\HastTable.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\HastTable\HastTable\obj\Debug\HastTable.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\HastTable\HastTable\obj\Debug\HastTable.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\HastTable\HastTable\obj\Debug\HastTable.pdb

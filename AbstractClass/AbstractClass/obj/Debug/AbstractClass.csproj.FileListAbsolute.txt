@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

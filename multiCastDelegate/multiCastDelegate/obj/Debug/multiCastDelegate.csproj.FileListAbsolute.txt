@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\multiCastDelegate\multiCastDelegate\bin\Debug\multiCastDelegate.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\multiCastDelegate\multiCastDelegate\bin\Debug\multiCastDelegate.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\multiCastDelegate\multiCastDelegate\bin\Debug\multiCastDelegate.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\multiCastDelegate\multiCastDelegate\obj\Debug\multiCastDelegate.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\multiCastDelegate\multiCastDelegate\obj\Debug\multiCastDelegate.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\multiCastDelegate\multiCastDelegate\obj\Debug\multiCastDelegate.pdb

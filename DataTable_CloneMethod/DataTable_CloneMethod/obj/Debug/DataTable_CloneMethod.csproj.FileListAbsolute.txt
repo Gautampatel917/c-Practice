@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataTable_CloneMethod\DataTable_CloneMethod\bin\Debug\DataTable_CloneMethod.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataTable_CloneMethod\DataTable_CloneMethod\bin\Debug\DataTable_CloneMethod.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataTable_CloneMethod\DataTable_CloneMethod\bin\Debug\DataTable_CloneMethod.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataTable_CloneMethod\DataTable_CloneMethod\obj\Debug\DataTable_CloneMethod.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataTable_CloneMethod\DataTable_CloneMethod\obj\Debug\DataTable_CloneMethod.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\DataTable_CloneMethod\DataTable_CloneMethod\obj\Debug\DataTable_CloneMethod.pdb

@@ -1,0 +1,6 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\unSafeCode\unSafeCode\bin\Debug\unSafeCode.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\unSafeCode\unSafeCode\bin\Debug\unSafeCode.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\unSafeCode\unSafeCode\bin\Debug\unSafeCode.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\unSafeCode\unSafeCode\obj\Debug\unSafeCode.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\unSafeCode\unSafeCode\obj\Debug\unSafeCode.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\unSafeCode\unSafeCode\obj\Debug\unSafeCode.pdb

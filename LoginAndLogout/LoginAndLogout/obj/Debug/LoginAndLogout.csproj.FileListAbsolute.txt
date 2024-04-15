@@ -1,0 +1,10 @@
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\bin\Debug\LoginAndLogout.exe.config
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\obj\Debug\LoginAndLogout.csprojResolveAssemblyReference.cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\obj\Debug\LoginAndLogout.Form1.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\obj\Debug\LoginAndLogout.Properties.Resources.resources
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\obj\Debug\LoginAndLogout.csproj.GenerateResource.Cache
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\bin\Debug\LoginAndLogout.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\bin\Debug\LoginAndLogout.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\obj\Debug\LoginAndLogout.exe
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\obj\Debug\LoginAndLogout.pdb
+C:\Users\FQ1089AU\Documents\GitHub\c#\c-Practice\LoginAndLogout\LoginAndLogout\obj\Debug\LoginAndLogout.Form2.resources
